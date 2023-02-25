@@ -1,0 +1,28 @@
+.travel-item-container {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+  background-color: #ffffff;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.card-img {
+  width: 100%;
+}
+
+.card-heading {
+  color: #475569;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Roboto';
+  padding: 0px 0px 10px 10px;
+}
+
+.card-discription {
+  color: #64748b;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  padding: 0px 0px 10px 10px;
+}
